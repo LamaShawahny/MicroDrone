@@ -1,3 +1,8 @@
+# Article : Vision-Less Sensing for Autonomous Micro-Drones
+# By :Simon Pikalov,Elisha Azaria ,Shaya Sonnenberg,Boaz Ben-Moshe and Amos Azaria
+
+Forked from https://github.com/ElishaAz/simple_airsim.git
+
 # Simple AirSim
 This is a project for simplifying the use of the AirSim drone simulator.
 
